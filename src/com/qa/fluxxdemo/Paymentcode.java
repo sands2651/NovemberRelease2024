@@ -6,6 +6,7 @@ public class Paymentcode
 	{
 		System.out.println("August release");
 		System.out.println("December release");
+		System.out.println("January release");
 	
 	}
 
